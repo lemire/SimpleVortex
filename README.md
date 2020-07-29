@@ -1,6 +1,8 @@
 SimpleVortex
 ============
 
+![Java13-CI](https://github.com/lemire/SimpleVortex/workflows/Java13-CI/badge.svg)
+
 A simple Java program to illustrate the Vortex order
 
 Reference: 
